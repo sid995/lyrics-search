@@ -1,0 +1,1 @@
+Lyrics Searching application using React and Musixmatch API
